@@ -1,0 +1,1 @@
+Hypertext Transfer Protocol, es un protocolo de comunicacion perteneciente a la capa de aplicacion del modelo OSI, es usado en la web para transferir datos entre servidores y clientes. Este protocolo define como se solicita y responde los recursos de la web.

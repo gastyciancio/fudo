@@ -1,0 +1,1 @@
+TCP es un protocolo correspondiente a la capa de transporte del modelo OSI que asegura que los datos lleguen correctamente y en orden, maneja la velocidad de transmicion para evitar congestionamiento y verifica errores para reenviar datos perdidos.
